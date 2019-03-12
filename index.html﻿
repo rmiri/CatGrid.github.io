@@ -1,0 +1,50 @@
+<DOCTYPE! html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Lato" rel="stylesheet">
+  </head>
+  <body>
+    <div class="body">
+    <header class="content header" id="header-id">
+      <h1> How to train your cat </h1>
+    </header>
+    <nav class="content nav">
+      <ul>
+        <li><a href="#" target="_blank">Home</a></li>
+        <li><a href="#" target="_blank">Articles</a></li>
+        <li><a href="#" target="_blank">About Us</a></li>
+      </ul>
+    </nav>
+    <!--article about cats -->
+    <div class="content article" id="article">
+      <h2>Weigh eight pounds but take up a full-size bed groom</h2>
+      <p>Destroy couch meow meow, i tell my human munch on tasty moths when owners are asleep, cry for no apparent reason while happily ignoring when being called. I will ruin the couch with my claws find box a little too small and curl up with fur hanging out so mewl for food at 4am
+      </p>
+      <p> Yet fish i must find my red catnip fishy fish unwrap toilet paper and stare at the wall, play with food and get confused by dust and scratch the box. With tail in the air dismember a mouse and then regurgitate parts of it on the family room floor lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat 
+      </p>
+      <p>Nesciunt tempora, for dolor laborum. Anim aperiam for quasi yet pariatur si velit, consequatur. Nemo. Nihil minima. Amet do so natus nequeporro ratione. Nihil quo. Deserunt sit so veritatis totam consequuntur. Ab perspiciatis and illum for eos commodo ab. Si nulla ratione yet ex or reprehenderit. Aute pariatur and ipsum, voluptatem nostrud, fugiat so sequi. Consectetur iure. Quo rem nesciunt elit. Fugit odit. Aut architecto aute for commodo so quia so aliquid illum. Aliquip voluptatem. Error natus. Ratione autem minim yet numquam natus. Commodi quia, for nostrum. Quisquam exercitationem consequuntur yet aute. 
+</p><p>
+Fugit cillum but duis but consequuntur yet non but ad suscipit. Tempora dolores laboris dolor. Incididunt explicabo. Sed culpa. Aute sunt do minim sit. Explicabo occaecat. Consectetur. Nesciunt reprehenderit so velit for molestiae illum. </p>
+    </div>
+    <!--information about the cat-->
+    <div class="content cat-info">
+      <h2>The cat</h2>
+      <img src="https://i.ytimg.com/vi/YCaGYUIfdy4/maxresdefault.jpg" id="cat-img">
+      <ul>
+<li>Lifespan: 2 – 16 years (In the wild)</li>
+<li>Gestation period: 58 – 67 days</li>
+<li>Mass: 3.6 – 4.5 kg (Adult)</li>
+<li>Daily sleep: 12 – 16 hours</li>
+<li>Scientific name: Felis catus</li>
+      </ul>
+    </div>
+    <footer class="content footer">
+      <!-- Add Email sign up in the footer for more info-->
+      <form>
+        <p> Do you want to know when we have a new article? Just sign up to our mailing list!</p>
+        <input type="text" placeholder="Your Email" name="email" required id="email">
+        <button type="submit" id="button">Sign Up</button>
+      </form>
+      </footer>
+        
+   
+  </body>
